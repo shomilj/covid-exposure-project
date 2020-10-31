@@ -23,11 +23,9 @@ At any point in time, you can find yourself using your `public key/private key p
 
 ---
 
-### PRIVACY
+### SECURITY & PRIVACY
 
 No personally-identifiable information is ever collected in this process. Because of this, no single person can identify anybody on the graph outside of who they've directly sent their public key to. 
-
-### SECURITY
 
 To prevent abuse, we've built in strict rate-limiting and anti-DDOS protection. 
 
